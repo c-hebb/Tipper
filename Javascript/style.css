@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.star1btn {
+ height: 300px;
+	width: 100px;
+}
